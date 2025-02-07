@@ -14,7 +14,7 @@ month = "sep" }
 
 ## Usage:
 ```
-import cooc_ar_stemmer as cas
+import cooc_ar_stemmer.ar_stem as cas
 cas.stem_it('شطط')
 
 # Output: 'شط'
