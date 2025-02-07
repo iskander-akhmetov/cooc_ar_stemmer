@@ -24,3 +24,5 @@ cas.stem_it(['شطط', 'ضحي'])
 
 # Output: ['شط', 'ضحى']
 ```
+
+The model files can be downloaded at https://drive.google.com/file/d/1VRqygWHz81UqF6e5zVceP37lhMax90n0/view?usp=sharing
