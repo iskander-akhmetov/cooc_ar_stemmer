@@ -3,6 +3,7 @@ A stemmer for the Arabic language
 
 Based on the work:
 @ARTICLE {iskanderakhmetovalexandrpakirinaualiyevaalexandergelbukh2020, 
+
 author = "Iskander Akhmetov, Alexandr Pak, Irina Ualiyeva, Alexander Gelbukh", 
 title = "Highly Language-Independent Word Lemmatization Using a Machine-Learning Classifier", 
 journal = "Computacion y Sistemas", 
